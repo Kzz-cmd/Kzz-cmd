@@ -83,10 +83,7 @@ def sangue_elegivel():
     return: str: mensagem de elegibilidade'''
     anos = int(input('Digite a idade: '))
     peso = float(input('Digite o peso: '))
-    if anos >= 18 and anos <= 65 and peso >= 50:
-        return 'Pode doar sangue'
-    else:
-        return 'Não pode doar sangue'
+    return 'Pode doar sangue' if anos >= 18 and anos <= 65 and peso >= 50 else 'Não pode doar sangue'
 
 def aprov_concorso():
     '''Função que verifica se uma pessoa foi aprovada em um concurso
