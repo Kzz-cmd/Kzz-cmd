@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kzz-cmd
 - 👀 I’m interested in knowledge
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord:nightpov
 - 😄 Pronouns: he/she
