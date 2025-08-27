@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord:nightpov
-- 😄 Pronouns: he/she
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i exist
 
 <!---
