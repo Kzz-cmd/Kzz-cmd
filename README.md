@@ -1,31 +1,56 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Falae 👋</h1>
 
 ###
 
-<p align="left">My name is kzz and I'm a Computer Engineer, from Brazil</p>
+<p align="left">Meu nome é Kenzzo e sou um Meio Engenheiro da Computação, cursando o 5º Período do curso no Centro Universitário de UNI-CET.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning javat<br>🎯 Goals: get a job<br>🎲 Fun fact: i exist</p>
+<p align="left">Comecei meus estudos envolvendo a área lá para 2023, e facilmente me identifiquei com a área de IA. Consigo fazer uso de modelos simples como um Perceptron até uma LLM que tentará completar qualquer texto!. Sei lidar com treinos Supervisionados, Não Supervisionados, de Reforço e Semi-Supervisionados.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Faço programas em</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h2 align="left">Uso as ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kzz-cmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kzz-cmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
