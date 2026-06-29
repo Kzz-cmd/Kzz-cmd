@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Kenzzo e sou um Meio Engenheiro da Computação, cursando o 5º Período do curso no Centro Universitário de UNI-CET.</p>
+<p align="left">Meu nome é Kenzzo e sou um Meio Engenheiro da Computação, cursando o 6º Período do curso no Centro Universitário de UNI-CET.</p>
 
 ###
 
